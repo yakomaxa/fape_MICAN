@@ -1,6 +1,16 @@
 # fape_MICAN
 PyMOL script to calculate FAPE based on MICAN's alignment
 
+# Purpose
+Feel the value of FAPE
+
+# Dependency
+
+*pymican
+*numpy
+*torch
+*einops
+
 # Uasge
 ``` fmican mobile, target, (option)```
 
