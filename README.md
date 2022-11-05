@@ -6,10 +6,9 @@ Feel the value of FAPE
 
 # Dependency
 
-*pymican
-*numpy
-*torch
-*einops
+pymican numpy torch einops
+
+All can be installed via pip
 
 # Uasge
 ``` fmican mobile, target, (option)```
