@@ -14,6 +14,6 @@ All can be installed via pip
 ``` fmican mobile, target, (option)```
 
 # Note
-Many of functions were taken from PDBBasic https://github.com/ShintaroMinami/PDBBasic
+Many of functions were taken from PDBBasic https://github.com/ShintaroMinami/PDBBasic and the license follows the origial's license.
 
 
